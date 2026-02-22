@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">👋</h1>
+
+<p align="center">
+  <samp>
+    <a href="https://kotir.space">homepage</a> .
+    <a href="https://www.linkedin.com/in/ilja-kotirinta">linkedin</a> .
+  </samp>
+</p>
 
 <!--
 **suruaku/suruaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
